@@ -28,6 +28,6 @@ collections: # A list of collections the CMS should be able to edit
         label: "TV"
         name: "tv"
         fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "ad"}
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
