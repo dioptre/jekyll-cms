@@ -1,8 +1,8 @@
 backend:
-  name: gitlab
-  repo: homodea/jekyll-cms # Path to your GitLab repository
-  auth_type: implicit # Required for implicit grant
-  app_id: 23eee7d11a42c7d17bc28aefec97def84ac685a8639a11c0ad35075e334bfcb9 # Application ID from your GitLab settings
+  name: github
+  repo: homodea/jekyll-cms   # Path to your Github repository
+  branch: master    # Branch to update
+  base_url: http://localhost:3000 # Path to ext auth provider
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
