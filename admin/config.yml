@@ -1,8 +1,8 @@
 backend:
-  name: github
+  name: gitlab
   repo: homodea/jekyll-cms   # Path to your Github repository
   branch: master    # Branch to update
-  base_url: http://localhost:3000 # Path to ext auth provider
+  #base_url: http://localhost:3000 # Path to ext auth provider
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
