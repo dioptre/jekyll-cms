@@ -3,17 +3,21 @@ version: 0.2
 phases:
   pre_build:
     commands:
-      - echo Installing PIP
-      - apt-get update && apt-get install -y python-pip
+      - echo Installing PIP, Ruby and Jekyll
+      - apt-get update && apt-get install -y python-pip ruby ruby-dev build-essential
+      - gem install jekyll bundler
       - echo Upgrading AWS CLI to latest version
       - pip install awscli --upgrade
       - echo Configuring AWS CLI
       - aws configure set default.region $AWS_DEFAULT_REGION
       - aws configure set default.aws_access_key_id $AWS_ACCESS_KEY
-      - aws configure set default.aws_secret_access_key $AWS_ACCESS_KEY_SECRET
+      - aws configure set default.aws_secret_access_key $AWS_ACCESS_KEY_SECRET   
   build:
     commands:
       - echo Build started on `date`
+      - jekyll --version
+      - bundle install
+      - jekyll b
   post_build:
     commands:
       - echo Build completed on `date`
