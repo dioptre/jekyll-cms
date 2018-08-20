@@ -24,6 +24,6 @@ phases:
     commands:
       - echo Build completed on `date`
       - echo Uploading to S3...
-      - aws s3 sync ./_site/ s3://$AWS_S3_BUCKET/latest/ --delete --exclude '.gitignore' --grants read=id=$AWS_CF_S3_ID
+      - aws s3 sync ./_site/ s3://$AWS_S3_BUCKET/latest/ --delete --grants read=id=$AWS_CF_S3_ID --exclude '.gitignore' --exclude 'buildspec.yml' --exclude 'README.md' --exclude 'run.sh'
       - echo Invalidating CloudFront cache ...
       - aws cloudfront create-invalidation --distribution-id $AWS_CF_DIST_ID --paths '/*'
