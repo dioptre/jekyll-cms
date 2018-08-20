@@ -16,12 +16,11 @@ phases:
       - echo Build started on `date`
       - export GEM_HOME=$HOME/gems
       - export PATH=$HOME/gems/bin:$PATH
+      - gem update --system
       - gem install jekyll bundler
-      - jekyll --version
       - bundle update jekyll
-      - bundle update
-      - jekyll --version
       - bundle install
+      - jekyll --version
       - jekyll b
   post_build:
     commands:
