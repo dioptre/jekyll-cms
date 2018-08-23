@@ -1,7 +1,13 @@
 backend:
   name: gitlab
-  repo: homodea/jekyll-cms   # Path to your Github repository
+  repo: dioptre/jekyll-cms   # Path to your Github repository
   branch: master    # Branch to update
+  auth_type: implicit
+  app_id: getyourappidfromgitlab
+  api_root: https://gitlab.com/api/v4
+  base_url: https://gitlab.com/
+  oauth_endpoint: oauth/authorize
+  #accept_roles:
   #base_url: http://localhost:3000 # Path to ext auth provider
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
