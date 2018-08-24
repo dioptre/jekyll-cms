@@ -40,3 +40,24 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "/premium.md"
+        label: "Premium"
+        name: "premium"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}          
+      - file: "/privacy.md"
+        label: "Privacy"
+        name: "privacy"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}          
+      - file: "/terms.md"
+        label: "Terms"
+        name: "terms"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}                    
