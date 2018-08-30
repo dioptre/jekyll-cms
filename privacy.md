@@ -2,4 +2,352 @@
 layout: normal
 title: privacy
 ---
-privacy
+<h1 class="title">Datenschutzerklärung</h1>
+
+Wir freuen uns, dass du unsere Website besuchst und bedanken uns für dein Interesse an unserem Unternehmen und unseren Leistungen. Der Schutz deiner Privatsphäre bei der Nutzung unserer Website ist uns wichtig. Über die Verarbeitung deiner personenbezogenen Daten und über deine Rechte als Betroffener im Rahmen der Nutzung der Website
+
+<a href="https://www.homodea.com" target="_blank">homodea.com</a>
+<br>(nachfolgend auch „
+<strong>Website</strong>
+“)
+
+möchten wir,
+
+<strong>homodea GmbH</strong>
+<br>
+Hirschstraße 2–4
+<br>
+76530 Baden-Baden
+<br>
+(<a href="https://www.homodea.com/imprint" target="_blank">Impressum</a>)
+
+(nachfolgend auch „<strong>wir</strong>“ oder „<strong>homodea</strong>“)
+
+als Verantwortliche und zugleich Diensteanbieterin, dich nachfolgend unterrichten.
+
+Die Verarbeitung deiner personenbezogenen Daten erfolgt ausschließlich im Rahmen der gesetzlichen Bestimmungen des Datenschutzrechts der Europäischen Union, insbesondere der EU-Datenschutz-Grundverordnung (nachfolgend „<strong>DSGVO</strong>“) und ergänzend des Bundesdatenschutzgesetzes (nachfolgend „<strong>BDSG</strong>“) sowie weiterer gesetzlicher Bestimmungen zum Datenschutz (zusammen nachfolgend „<strong>Datenschutzgesetze</strong>“).
+
+Falls du selbst einmal einen Blick in die DSGVO werfen möchtest, findest du diese im Internet unter: <a href="https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679" target="_blank">https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32016R0679.</a>
+
+Diese Datenschutzerklärung gilt nur für die Website abrufbar unter der Domain <a href="https://www.humantrust.com" target="_blank">humantrust.com</a> einschließlich aller Subdomains (z.B. <a href="https://we.humantrust.com" target="_blank">we.humantrust.com</a>). Die nachfolgenden Hinweise beziehen sich nicht auf andere Websites von homodea oder fremde Websites anderer Anbieter, auf die von der Website aus verlinkt wird. Die verwendeten Begrifflichkeiten, wie z.B. „personenbezogene Daten“ oder deren „Verarbeitung“ entsprechen den Definitionen in Art. 4 DSGVO.
+
+<br>
+<h2 class="subtitle">1. Gegenstand des Datenschutzes, Rechtsgrundlagen und Quellen</h2>
+
+Gegenstand des Datenschutzes sind personenbezogene Daten. Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person („betroffene Person“) beziehen. Zu deinen personenbezogenen Daten zählen folglich sämtliche Daten, die eine Identifikation deiner Person zulassen, wie bspw. dein Name, deine Anschrift, deine Telefonnummer oder deine E-Mail-Adresse. Unter personenbezogene Daten fallen zudem durch die Nutzung unserer Website notwendigerweise entstehende Informationen wie bspw. Beginn, Ende und Umfang der Nutzung oder deine IP-Adresse.
+
+Personenbezogene Daten werden auch erfasst, soweit du uns diese bei Eröffnung eines Nutzerkontos oder zur Durchführung eines Vertrages mitteilst (Vertragsdaten).
+
+Personenbezogene Daten werden weiterhin in dem Umfang erfasst, in dem du selbst Inhalte in dein Nutzerprofil einpflegst sowie Inhalte verfasst, postest, oder in sonstiger Weise in den Mitgliederdialog einbringst (Profildaten).
+
+Wir verarbeiten deine Daten nur dann, wenn eine anwendbare Rechtsvorschrift dies erlaubt. Die Verarbeitung deiner Daten werden wir dabei unter anderem auf die folgenden Rechtsgrundlagen stützen:
+
+<ul>
+  <li>
+    <strong>Einwilligung</strong> (Art. 6 Abs. 1 S. 1 Buchstabe a DSGVO): Wir werden bestimmte Daten nur auf der Grundlage deiner zuvor erteilten ausdrücklichen und freiwilligen Einwilligung verarbeiten. Du hast das Recht, deine Einwilligung jederzeit mit Wirkung für die Zukunft zu widerrufen.
+  </li>
+  <li>
+    <strong>Erfüllung eines Vertrages bzw. Durchführung vorvertraglicher Maßnahmen</strong> (Art. 6 Abs. 1 S. 1 Buchstabe b DSGVO): Insbesondere zur Anbahnung bzw. Durchführung deines Nutzungsvertrages mit homodea, benötigen wir bestimmte Daten von dir.
+  </li>
+  <li>
+    <strong>Erfüllung einer rechtlichen Verpflichtung</strong> (Art. 6 Abs. 1 S. 1 Buchstabe c DSGVO): Darüber hinaus verarbeiten wir deine personenbezogenen Daten zur Erfüllung gesetzlicher Verpflichtungen wie z.B. handels- und steuerrechtlicher Aufbewahrungspflichten.
+  </li>
+  <li>
+    <strong>Wahrung berechtigter Interessen</strong> (Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO): homodea wird bestimmte Daten zur Wahrung deiner oder der Interessen Dritter verarbeiten. Dies gilt aber nur dann, wenn deine Interessen im Einzelfall nicht überwiegen.
+  </li>
+</ul>
+
+Bitte beachte, dass dies keine vollständige oder abschließende Aufzählung der möglichen Rechtsgrundlagen ist, sondern es sich hierbei lediglich um Beispiele handelt, welche die datenschutzrechtlichen Rechtsgrundlagen transparenter machen sollen. Nähere Angaben zu den Rechtsgrundlagen der einzelnen Datenverarbeitungen auf unserer Website entnimmst du bitte den Ausführungen unter den nachfolgenden Ziffern.
+
+Diese personenbezogenen Daten stammen überwiegend von <strong>dir selbst</strong>, insbesondere aus deinen Kontaktanfragen, Buchungen und Angaben beim Vertragsschluss.
+
+<br> 
+<h2 class="subtitle">2. Server-Log-Daten</h2>
+
+Du kannst den öffentlichen, ohne vorherige Registrierung zugänglichen Teil unserer Website besuchen, ohne Angaben zu deiner Person zu machen. Durch den Besuch unserer Website können folgende Informationen über den Zugriff gespeichert werden:
+
+<ul>
+  <li>IP-Adresse des anfragenden Endgerätes,</li>
+  <li>abgerufene Datei,</li>
+  <li>den http-Antwort-Code,</li>
+  <li>die vorherige Website, von der aus du die Website besuchst (Referrer-URL),</li>
+  <li>Datum, Uhrzeit und Zeitzone der Serveranfrage,</li>
+  <li>Browsertyp und -version,</li>
+  <li>verwendetes Betriebssystem des anfragenden Endgerätes,</li>
+  <li>Suchbegriff mit dem die Website, beispielsweise über Google, gefunden wurde.</li>
+</ul>
+
+<br>
+Diese Daten verarbeiten wir auf Basis von Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO zur Bereitstellung der Website, zur Sicherstellung des technischen Betriebs sowie der Sicherheit unserer informationstechnischen Systeme. Wir verfolgen dabei das Interesse, die Inanspruchnahme unsere Website und deren technische Funktionsfähigkeit zu ermöglichen und dauerhaft aufrecht zu erhalten. Bei Aufruf unsere Website werden diese Daten automatisch verarbeitet. Ohne diese Bereitstellung kannst du unsere Website nicht nutzen. Wir verwenden diese Daten nicht zu dem Zweck, Rückschlüsse auf deine Identität zu ziehen.
+
+Die automatisiert erhobenen Daten werden in der Regel nach 7 Tagen gelöscht, es sei denn, dass wir sie für die oben genannten Zwecke ausnahmsweise länger benötigen. In einem solchen Fall löschen wir die Daten unverzüglich nach Zweckentfall.
+
+Du kannst der Erfassung und der Speicherung deiner Server-Log-Daten nicht widersprechen, da diese Daten zwingend für einen reibungslosen Betrieb der Website erforderlich sind.
+
+<br>
+<h2 class="subtitle">3. Kommunikation per E-Mail</h2>
+
+Wenn du uns per E-Mail kontaktierst, erfolgt die Erhebung, Verarbeitung und Nutzung deiner freiwillig mitgeteilten Kontaktdaten (wie bspw. Name, E-Mail-Adresse) nur zweckgerichtet, entweder zur Aufnahme und ggf. Beantwortung deiner Anfrage(n) sowie zur technischen Administration.
+
+Die Verarbeitung von Daten, die im Rahmen einer Kontaktaufnahme per E-Mail übermittelt werden, erfolgt aufgrund Art. 6 Abs. 1 S. 1 Buchstabe b DSGVO, wenn es um die Anbahnung eines Vertragsverhältnisses geht, oder aufgrund Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO. Im letzteren Fall haben wir ein berechtigtes Interesse daran, freiwillig an uns gerichtete Kontaktanfragen zu bearbeiten.
+
+Wir löschen die von dir angegebenen Daten, sobald der Zweck der Erfassung vollständig wegfällt, vorbehaltlich der Erfüllung fortbestehender gesetzlicher Aufbewahrungspflichten.
+
+<strong>Soweit deine Daten aufgrund berechtigter Interessen verarbeitet werden, kannst du jederzeit der Speicherung deiner personenbezogenen Daten widersprechen.</strong>
+
+Da die Kommunikation per E-Mail über keine gesicherte Datenverbindung erfolgt, sieh bitte davon ab, vertrauliche Informationen, wie Bank- oder Kreditkartendaten etc., darüber zu verschicken. Wir empfehlen dir für den Versand von vertraulichen Informationen auf einen sicheren Übertragungsweg, wie etwa Briefpost, zurückzugreifen.
+
+<br>
+<h2 class="subtitle">4. Mitglieder-Bereich</h2>
+
+Wir richten für jeden Nutzer, der sich entsprechend registriert, einen passwortgeschützten direkten Zugang zu seinen bei uns gespeicherten Profildaten ein. Hier kannst du Daten über deine gebuchten Kurse bzw. Kurspakete einsehen und deine Profildaten sowie den Newsletter verwalten. In diesem Fall erheben und speichern wir die folgenden Daten, die von dir zwingend anzugeben sind:
+
+<ul>
+  <li>Vorname,</li>
+  <li>Nachname,</li>
+  <li>E-Mail-Adresse.</li>
+</ul>
+    
+Die Bereitstellung dieser Daten ist für den Abschluss und die Durchführung eines Nutzungsvertrages mit uns erforderlich. Die Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 S. 1 Buchstabe b DSGVO bzw. Art. 6 Abs. 1 S. 1 Buchstabe c DSGVO, soweit die Speicherung zur Erfüllung gesetzlicher Aufbewahrungspflichten erfolgt.
+
+Zusätzlich kannst du freiwillig angeben:
+
+<ul>
+  <li>Geschlecht</li>
+  <li>Geburtstag</li>
+  <li>Beziehungsstatus</li>
+  <li>Adresse</li>
+  <li>Beruf</li>
+  <li>Berufliche Position</li>
+  <li>Motto</li>
+  <li>Was ist besonders an dir</li>
+  <li>Ziel des Lebens</li>
+  <li>Interessen</li>
+  <li>Ich biete</li>
+  <li>Ich suche</li>
+  <li>Angebote für humantrust Mitglieder</li>
+  <li>3 Qualitäten</li>
+  <li>Facebook-Link</li>
+  <li>LinkedIn-Link</li>
+  <li>Skype-Link</li>
+  <li>Twitter-Link</li>
+  <li>Website-Link</li>
+  <li>XING-Link</li>
+</ul>
+
+Die Speicherung der freiwilligen Angaben erfolgt aufgrund von Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO zur Bereitstellung bestimmter Funktionen im Mitgliederbereich, zum erleichterten Austausch der Mitglieder untereinander sowie zur Verbesserung unseres Angebots, da wir ein berechtigtes Interesse daran haben, von dir freiwillig angegebene Daten zu verarbeiten. <strong>Du kannst der Verarbeitung der freiwilligen Angaben jederzeit durch Löschen der jeweiligen Daten aus deinem Nutzerprofil widersprechen.</strong>
+
+Mit der Funktion „angemeldet bleiben“ möchten wir dir den Besuch unserer Website so angenehm wie möglich gestalten. Diese Funktion ermöglicht dir die Nutzung unserer Website, ohne sich jedes Mal erneut einloggen zu müssen. Aus Sicherheitsgründen wirst du jedoch nochmals zur Eingabe deines Passworts aufgefordert, wenn beispielsweise deine persönlichen Daten geändert werden sollen oder du eine Bestellung aufgeben möchtest. Wir empfehlen dir, diese Funktion nicht zu nutzen, wenn dein Endgerät von mehreren Benutzern verwendet wird. Wir weisen darauf hin, dass die Funktion „angemeldet bleiben“ nicht verfügbar ist, wenn du in deinem Browser eine Einstellung verwendest, die gespeicherte Cookies nach jeder Session automatisch löscht, oder du „zusätzliche eigene Cookies“ deaktiviert hast (siehe hierzu Ziffer 6 Buchstabe b).
+
+Die Löschung deines Nutzerkontos kannst du jederzeit durch eine Nachricht an <a href="mailto:datenschutz@humantrust.com">datenschutz@humantrust.com</a> veranlassen. Dein Profil wird bei Löschung deines Nutzerkontos unverzüglich gelöscht bzw. gesperrt und deine selbst verfassten und geposteten Inhalte auf unserer Plattform so anonymisiert, dass für Nutzer in der Regel kein Rückschluss auf deine Identität mehr möglich ist. Dies gilt, sofern du nicht z.B. in den Inhalten (beispielsweise von Kommentaren) oder anderweitig deine Identität preisgegeben hast. Unabhängig davon ist die Deaktivierung eines Nutzerkontos. Wenn eine Mitgliedschaft ausläuft oder eine Zahlung ausfällt, dann wird das Nutzerkonto deaktiviert. Das hat zur Folge, dass der Nutzer nicht mehr in den Listen (beispielsweise Mitgliederliste oder Gruppenlisten) aufgelistet ist. Diese Deaktivierung wird aufgehoben, wenn die Zahlung für das Nutzerkonto fortgesetzt oder ein neuer Vertrag auf dasselbe Nutzerkonto angelegt wird.
+
+<br> 
+<h2 class="subtitle">5. Newsletter</h2>
+
+Für den Versand des Newsletters verwenden wir das sogenannte Double-Opt-In-Verfahren, d.h. wir werden dir erst dann einen Newsletter per E-Mail zusenden, wenn du uns zuvor ausdrücklich bestätigt hast, dass wir den Newsletter-Dienst aktivieren sollen. Wir werden dir dann eine Benachrichtigungs-E-Mail zusenden und dich bitten, durch das Anklicken eines in dieser E-Mail enthaltenen Links zu bestätigen, dass du unseren Newsletter erhalten möchtest. Mit Abschluss dieses separaten Double-Opt-In-Verfahrens hast du deine Einwilligung in den Newsletter-Bezug erteilt.
+
+Wir versenden Newsletter nur nach entsprechender Anmeldung, d.h. mit deiner Einwilligung auf Basis von Art. 6 Abs. 1 S. 1 Buchstabe a DSGVO. Sofern im Rahmen einer Anmeldung zum Newsletter dessen Inhalte konkret umschrieben werden, sind diese für die Reichweite der Einwilligung maßgeblich. Im Übrigen enthalten unsere Newsletter Informationen zu unseren Produkten, Angeboten, Aktionen und zu unserem Unternehmen.
+
+Erfolgt das Abonnement des Newsletters aus dem Mitglieder-Bereich heraus, können wir von einem erneuten Double-Opt-In absehen, da deine E-Mail-Adresse dann schon für das erstmalige Login in den Mitglieder-Bereich durch den Bestätigungslink überprüft wurde. In diesem Fall genügt ein einfaches Opt-In (durch Anklicken einer Checkbox) im Mitglieder-Bereich.
+
+<strong>Solltest du später keine Newsletter mehr von uns erhalten wollen, kannst du deine Einwilligung jederzeit widerrufen. Eine Mitteilung in Textform (z.B. E-Mail, Brief) an die oben genannten Kontaktdaten oder an <a href="mailto:datenschutz@humantrust.com">datenschutz@humantrust.com</a> reicht hierfür aus. Selbstverständlich findest du auch in jedem Newsletter einen Abmelde-Link.</strong>
+
+Wir weisen dich darauf hin, dass nach dem Versand des Newsletters dein Nutzerverhalten im Hinblick auf unseren Newsletter von uns ausgewertet wird. Für diese Auswertung beinhalten die versendeten E-Mails sogenannte Web-Beacons, auch Tracking-/Zählpixel genannt. Dies sind Ein-Pixel-Bilddateien, die auf unsere Website verlinken und uns so ermöglichen, dein Nutzerverhalten im Hinblick auf unseren Newsletter auswerten. Dies erfolgt durch Erhebung technischer Informationen, z.B. zu deinem Browser, deinem System, deiner IP-Adresse und dem Zeitpunkt des Abrufs, sowie Web-Beacons, die deiner E-Mail-Adresse zugeordnet und mit einer eigenen ID verknüpft werden.
+
+<strong>Ein Tracking mittels Web-Beacons ist nicht möglich, wenn du in deinem E-Mail-Programm die Anzeige von Bildern standardmäßig deaktiviert hast. In diesem Fall wird dir der Newsletter jedoch nicht vollständig angezeigt und du kannst eventuell nicht alle Funktionen nutzen. Wenn du die Bilder manuell anzeigen lässt, erfolgt das oben genannte Tracking.</strong>
+
+<br>
+<h2 class="subtitle">6. Cookies</h2>
+
+Die Website verwendet Cookies und ähnliche Technologien wie beispielsweise HTML5 Storage (nachfolgend insgesamt „<strong>Cookies</strong>“), um die Website optimal gestalten zu können. Dies ermöglicht u.a. eine Erleichterung der Navigation und ein hohes Maß an Benutzerfreundlichkeit.
+
+Cookies sind kleine Identifizierungszeichen, die unser Webserver an deinen Browser sendet und die dein Endgerät bei entsprechender Standard-Einstellung speichert. Diese können genutzt werden, um festzustellen, ob von deinem Endgerät bereits eine Kommunikation zu uns bestanden hat. Dadurch dienen sie dem Zweck, die Nutzung für dich komfortabler zu gestalten und unser Angebot zu optimieren. Diese Verarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO hinsichtlich unbedingt erforderlicher Cookies und auf Grundlage von Art. 6 Abs. 1 S. 1 Buchstabe a DSGVO, sofern du in die Speicherung und Nutzung von zusätzlichen eigenen Cookies bzw. Cookies von Drittanbietern einwilligst. Personenbezogene Daten können dann in Cookies gespeichert werden, wenn dies technisch unbedingt erforderlich ist oder du eingewilligt hast.
+
+<strong>Wenn du unsere Website nutzt, kannst du uns deine Einwilligung zur Nutzung und Speicherung von zusätzlichen eigenen Cookies bzw. Cookies von Drittanbietern auf deinem Endgerät erteilen. Du kannst deine einmal erteilte Einwilligung in die Nutzung und Speicherung von Cookies jederzeit mit Wirkung für die Zukunft widerrufen, indem du die jeweiligen unten beschriebenen Cookie-Einstellungen dieser Website bezüglich zusätzlicher eigener Cookies (Ziffer 6 Buchstabe b) bzw. Cookies von Drittanbietern (Ziffer 6 Buchstabe c) deaktivierst.
+</strong>
+
+<strong>Ferner kannst du (auch bezüglich unbedingt erforderlicher Cookies) in deinen Browser-Einstellungen „keine Cookies akzeptieren“ wählen. Die Verfahren zur technischen Verwaltung und Löschung von Cookies in den Einstellungen deines Browsers entnimmst du bitte der Hilfe-Funktion deines Browsers.</strong>
+
+<strong>Außerdem kannst du die Speicherung und Nutzung sämtlicher Cookies auch technisch mittels kostenloser Browser-Add-ons, wie z.B. „Adblock Plus“ (<a target="_blank" href="https://adblockplus.org/de">adblockplus.org/de</a>) in Kombination mit der „EasyPrivacy“-Liste (<a target="_blank" href="https://easylist.to">easylist.to</a>) oder „Ghostery“ (<a target="_blank" href="https://ghostery.com">ghostery.com</a>), verhindern.</strong>
+
+<strong>Wenn du die Speicherung sämtlicher Cookies verhinderst, kann dies aber zu Funktionseinschränkungen der Website führen.</strong>
+
+<strong>Weitere Einzelheiten der Datenverarbeitung und Möglichkeiten zum Widerruf deiner Einwilligung bei Cookies von Drittanbietern entnimmst du bitte den nachstehenden Beschreibungen der einzelnen Funktionen, die auf der Verwendung von derartigen Cookies bzw. cookieähnlichen Technologien beruhen.</strong>
+
+<br>
+<h2 class="subtitle">7. Google Analytics</h2>
+
+Sofern du in die Nutzung und Speicherung von Cookies von Drittanbietern eingewilligt hast, nutzen wir Google Analytics, einen Webanalysedienst der Google LLC („Google“). Google Analytics verwendet sog. Cookies. Die durch das Cookie erzeugten Informationen über Benutzung unserer Website durch dich, werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 Buchstabe a DSGVO, da die Datenverarbeitung aufgrund deiner Einwilligung erfolgt. Google ist unter dem EU-US-Privacy-Shield-Abkommen zertifiziert und bietet hierdurch eine Garantie, das europäische Datenschutzrecht einzuhalten.
+
+In unserem Auftrag wird Google diese Informationen dazu verwenden, die Nutzung der Website durch dich auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen uns gegenüber zu erbringen. Aus den verarbeiteten Daten können pseudonyme Nutzungsprofile erstellt werden.
+
+Wir setzen Google Analytics nur mit aktivierter IP-Anonymisierung ein. Das bedeutet, die IP-Adresse der Nutzer wird von Google innerhalb von Mitgliedstaaten der Europäischen Union (EU) oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum (EWR) gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Die von deinem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.
+
+Die Daten werden gelöscht, sobald sie für unsere Aufzeichnungszwecke nicht mehr benötigt werden. In unserem Fall ist dies in der Regel nach 26 Monaten der Fall.
+
+<strong>Du kannst deine ggf. erteilte Einwilligung in die Speicherung und Nutzung der Cookies für Google Analytics mittels Deaktivieren von „Cookies von Drittanbietern“ (siehe oben Ziffer 6 Buchstabe c) widerrufen. Ferner kannst du die Speicherung und Nutzung von Cookies auch technisch durch entsprechende Browser-Einstellungen bzw. Browser-Add-ons verhindern. Du kannst darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Weiterverarbeitung dieser Daten durch Google verhindern, indem du das unter dem folgenden Link verfügbare Browser-Plugin herunterlädst und installierst:</strong>
+<br>
+
+<a target="_blank" href="https://tools.google.com/dlpage/gaoptout?hl=de">https://tools.google.com/dlpage/gaoptout?hl=de</a>.
+
+Weitere Informationen zur Datennutzung durch Google, Einstellungs- und Widerspruchsmöglichkeiten erfährst du auf den Websites von Google unter den folgenden Links:
+
+<ul>
+  <li>
+    <a target="_blank" href="https://www.google.com/intl/de/policies/privacy/partners">https://www.google.com/intl/de/policies/privacy/partners</a> („Datennutzung durch Google bei deiner Nutzung von Websites oder Apps unserer Partner“),
+  </li>
+  <li>
+    <a target="_blank" href="https://www.google.com/policies/technologies/ads">https://www.google.com/policies/technologies/ads</a> („Datennutzung zu Werbezwecken“),</li>
+  <li>
+    <a target="_blank" href="https://www.google.de/settings/ads">https://www.google.de/settings/ads</a> („Informationen verwalten, die Google verwendet, um dir Werbung einzublenden“).
+  </li>
+</ul>
+ 
+<br>
+<h2 class="subtitle">8. Retargeting/Remarketing</h2>
+
+Sofern du in die Nutzung und Speicherung von Cookies von Drittanbietern eingewilligt hast, setzen wir auf unserer Website zur Optimierung unseres Angebots Retargeting-/Remarketing-Technologien ein. Rechtsgrundlage ist Art. 6 Abs. 1 S. 1 Buchstabe a DSGVO, da die Datenverarbeitung aufgrund deiner Einwilligung erfolgt.
+
+<br>
+<h3 class="paragraph">a) Was ist Retargeting/Remarketing?</h3>
+
+Auf unserer Website werden auf Basis einer Cookie-/Tracking-Technologie Daten zur Optimierung unserer Werbung und des gesamten Onlineangebotes gesammelt (sog. Retargeting/Remarketing). Diese Daten werden nicht dazu genutzt, dich persönlich zu identifizieren, sondern dienen allein dazu, die Nutzung unserer Website auszuwerten und Nutzern, die sich bereits für unsere Website interessiert haben, auf unserer Website und den Websites unserer Partner mit Werbung anzusprechen. Mit dieser Technologie können wir und unsere Partner dir Werbung oder besondere Angebote und Services präsentieren, deren Inhalt z.B. auf den im Zusammenhang mit der Clickstream-Analyse erlangten Informationen basiert (z.B. Werbung, die darauf ausgerichtet ist, dass in den letzten Tagen ausschließlich bestimmte Artikel aus unserem Angebot angesehen wurden). Wir sind davon überzeugt, dass die Einblendung einer interessenbezogenen Werbung in der Regel für den Nutzer interessanter ist als Werbung, die keinen solchen persönlichen Bezug hat. Die Einblendung von Werbung auf unserer Website oder auf den Websites unserer Partner erfolgt auf Basis einer Analyse des vorherigen Nutzungsverhaltens. Die Erstellung von Nutzungsprofilen erfolgt jedoch ausschließlich anonymisiert bzw. pseudonymisiert. Deine Tracking-Daten werden zu keiner Zeit mit den bei uns gespeicherten personenbezogenen Daten zusammengeführt. Wie du Retargeting-/Remarketing-Technologien deaktivieren kannst, erfährst du im folgenden Abschnitt dieser Datenschutzerklärung.
+
+<br>
+<h3 class="paragraph">b) Google AdWords Remarketing und Facebook-Pixel</h3>
+
+Wir setzen auf dieser Website die Funktion Remarketing oder „Ähnliche Zielgruppen“ in AdWords der Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043 USA, nachfolgend „Google“, ein.
+
+Google verwendet Cookie-/Tracking-Technologien, die auf deinem Endgerät gespeichert werden und die eine Analyse der Benutzung der Website durch dich ermöglicht. Die durch die Cookie-/Tracking-Technologie erzeugten Informationen über deine Benutzung diese Website (einschließlich Ihrer IP-Adresse) wird an einen Server von Google in den USA übertragen und dort gespeichert. Die IP-Adresse wird anschließend von Google um die letzten drei Stellen gekürzt, eine eindeutige Zuordnung der IP-Adresse ist somit nicht mehr möglich.
+
+Google wird diese Informationen benutzen, um deine Nutzung der Website auszuwerten, um Reports über die Websites-Aktivitäten für die Websites-Betreiber zusammenzustellen und um weitere mit der Websitesnutzung und der Internetnutzung verbundene Dienstleistungen zu erbringen. Auch wird Google diese Informationen gegebenenfalls an weitere Empfänger übertragen, sofern dies gesetzlich vorgeschrieben oder soweit Dritte diese Daten im Auftrag von Google verarbeiten.
+
+Drittanbieter, einschließlich Google, verwenden gespeicherte Cookies/Tracking-Informationen u.a. zum Schalten von Anzeigen auf Grundlage vorheriger Besuche eines Nutzers auf dieser Website.
+
+Weitere Informationen zur Analyse deines Such- und Nutzungsverhaltens erhältst du hier: <a target="_blank" href="http://www.google.com/intl/de/policies/privacy/">http://www.google.com/intl/de/policies/privacy/</a> und <a target="_blank" href="http://www.google.com/policies/‌technologies/ads/">http://www.google.com/policies/‌technologies/ads/</a>.
+
+Weiter nutzt diese Website den Facebook-Pixel der Facebook Inc., 1601 South California Avenue, Palo Alto, CA 94304 USA, nachfolgend „Facebook”.
+
+Wenn du unsere Website besuchst, wird über den Facebook-Pixel eine direkte Verbindung zwischen deinem Browser und dem Facebook-Server hergestellt. Facebook erhält dadurch die Information, dass du unsere Website besucht hast und wir können so unsere Facebook-Aktivitäten effektiver gestalten und z.B. Beiträge oder Anzeigen nur für Besucher unserer Website anzeigen lassen. Die erfassten Daten werden nur verschlüsselt an Facebook übermittelt und sind für uns anonym, d.h. die personenbezogenen Daten einzelner Nutzer sind für uns nicht einsehbar. Wir verwenden nicht die Funktion „erweiterter Abgleich“ des Facebook-Pixels.
+
+Weitere Informationen zum Facebook-Pixel findest du in der Datenschutzerklärung von Facebook unter <a target="_blank" href="https://www.facebook.com/about/privacy/">https://www.facebook.com/about/privacy/</a> sowie unter <a target="_blank" href="https://www.facebook.com/business/‌learn/facebook-ads-pixel">https://www.facebook.com/business/‌learn/facebook-ads-pixel</a>.
+
+<strong>Du kannst deine ggf. erteilte Einwilligung in die Speicherung und Nutzung von Cookies zu Zwecken des Remarketings/Retargetings mittels Deaktivieren von „Cookies von Drittanbietern“ (siehe oben Ziffer 6 Buchstabe c) widerrufen. Ferner kannst du die Speicherung und Nutzung von Cookies auch technisch durch entsprechende Browser-Einstellungen bzw. Browser-Add-ons verhindern. Du kannst darüber hinaus die interessenbezogene Werbung bei Google unter folgendem Link deaktivieren: <a target="_blank" href="https://adssettings.google.com/">https://adssettings.google.com/</a>.</strong>
+
+<br>
+<h2 class="subtitle">9. Livestream</h2>
+
+Auf dieser Website werden Videos über Livestream.com eingebunden. Dabei handelt es sich um einen Dienst der Livestream Inc., 195 Morgan Avenue, Brooklyn, NY, 11237, USA („Livestream“). Hierzu wird eine Verbindung zu den Servern von Livestream in den USA hergestellt. Hierdurch werden bestimmte Informationen (z.B. deine IP-Adresse) an Livestream übermittelt. Auch kann es sein, dass Livestream Cookies auf deinem Endgerät ablegt, sofern du in die Nutzung und Speicherung von Cookies von Drittanbietern eingewilligt hast. Wir erhalten keine Kenntnis von Art und Umfang der durch Livestream erhobenen Daten und haben keinen Einfluss auf deren Verwendung. Durch die Einbindung kann Livestream auch die Information erhalten, dass dein Browser die entsprechende Seite dieser Website aufgerufen hat, auch wenn du kein Benutzerkonto bei Livestream besitzt oder nicht bei Livestream eingeloggt bist.
+
+Rechtsgrundlage bezüglich der Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 Buchstabe a DSGVO, da die diesbezügliche Datenverarbeitung aufgrund deiner Einwilligung erfolgt. Im Übrigen ist Rechtsgrundlage Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO, da wir ein berechtigtes Interesse daran haben, zum wirtschaftliche Betrieb und zur Optimierung unserer Website Inhalte und Dienste Dritter einzusetzen.
+
+Weitere Informationen zur Erhebung und Verwendung deiner Daten durch Livestream sowie deine diesbezüglichen Rechte findest du in der Datenschutzerklärung von Livestream unter <a target="_blank" href="https://livestream.com/terms/privacy">https://livestream.com/terms/privacy.</a>
+
+<strong>Du kannst deine ggf. erteilte Einwilligung in die Speicherung und Nutzung von Cookies durch Livestream mittels Deaktivieren von „Cookies von Drittanbietern“ (siehe oben Ziffer 6 Buchstabe c) widerrufen oder in den Einstellungen deines Browsers bzw. mittels Browser-Add-Ons technisch deaktivieren; wir weisen dich jedoch darauf hin, dass du in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Website vollumfänglich nutzen kannst.</strong>
+
+<br>
+<h2 class="subtitle">10. Zendesk</h2>
+
+Wenn du unsere Support-Funktion verwendest, wird deine IP-Adresse sowie deine Anfrage und die darin enthaltenen Daten an die Server von Zendesk, Inc. („Zendesk“), 1019 Market Street
+San Francisco, CA 94103, USA, übermittelt. Wir nutzen den Dienst, um einen Live-Chat, Support und engen Kontakt mit Kunden und Interessenten anbieten zu können. Zendesk ermöglicht dabei die erleichterte Bearbeitung deiner Anfrage und analysiert dafür in unserem Auftrag deine Nutzung unserer Website und verfolgt die Entwicklung unserer Kundenbeziehung, damit wir unseren Service für dich verbessern können. Auch kann es sein, dass Zendesk Cookies auf deinem Endgerät ablegt, sofern du in die Nutzung und Speicherung von Cookies von Drittanbietern eingewilligt hast. Rechtsgrundlage bezüglich der Verwendung von Cookies ist Art. 6 Abs. 1 S. 1 Buchstabe a DSGVO, da die diesbezügliche Datenverarbeitung aufgrund deiner Einwilligung erfolgt. Im Übrigen ist Rechtsgrundlage Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO, da wir ein berechtigtes Interesse daran haben, freiwillig an uns gerichtete Anfragen zu bearbeiten.
+
+Die Daten werden gelöscht, sobald sie für unsere Aufzeichnungszwecke bzw. zur Bearbeitung deiner Anfrage nicht mehr benötigt werden. In unserem Fall ist dies in der Regel nach 7 Tagen der Fall.
+
+<strong>Du kannst deine ggf. erteilte Einwilligung in die Speicherung und Nutzung von Cookies durch Zendesk mittels Deaktivieren von „Cookies von Drittanbietern“ (siehe oben Ziffer 6 Buchstabe c) widerrufen oder in den Einstellungen deines Browsers bzw. mittels Browser-Add-Ons technisch deaktivieren; wir weisen dich jedoch darauf hin, dass du in diesem Fall gegebenenfalls nicht sämtliche Funktionen unserer Website vollumfänglich nutzen kannst.</strong>
+
+Zendesk hat sich mit sog. Binding Corporate Rules (BCR) sowie einer EU-US-Privacy-Shield-Zertifizierung beim US-Handelsministerium zur Einhaltung eines angemessenen Datenschutzniveaus bezüglich der Verarbeitung personenbezogenen Daten von betroffenen Personen aus den Mitgliedsstaaten der EU verpflichtet. Nähere Informationen zu Zendesk und zum Datenschutz bei Zendesk findest du unter <a target="_blank" href="https://www.zendesk.de/company/customers-partners/privacy-policy/">https://www.zendesk.de/company/customers-partners/privacy-policy/</a>.
+
+<br>
+<h2 class="subtitle">16. Empfänger personenbezogener Daten</h2>
+
+Deine personenbezogenen Daten werden von uns nur dann an externe Empfänger weitergegeben, sofern dies zur Abwicklung oder Bearbeitung deines Anliegens erforderlich ist, uns hierfür deine Einwilligung vorliegt oder eine andere gesetzliche Erlaubnis besteht.
+
+Externe Empfänger können insbesondere sein:
+
+<ul>
+  <li>
+    <strong>Auftragsverarbeiter:</strong> Dies sind Dienstleister, die wir für die Erbringung von Services einsetzen, beispielsweise in den Bereichen der technischen Infrastruktur und Wartung unserer Website. Solche Auftragsverarbeiter werden von uns sorgfältig ausgewählt und regelmäßig überprüft, um sicherzugehen, dass deine Privatsphäre gewahrt bleibt. Diese Dienstleister dürfen die Daten ausschließlich zu den von uns vorgegebenen Zwecken und nach unseren Weisungen verwenden. Wir sind unter Wahrung der gesetzlichen Voraussetzungen von Art. 28 DSGVO dazu befugt, uns solcher Auftragsverarbeiter zu bedienen.
+  </li>
+  <li>
+    <strong>Öffentliche Stellen:</strong> Dies sind Behörden, staatliche Institutionen und andere öffentlich-rechtliche Körperschaften, bspw. Aufsichtsbehörden, Gerichte, Staatsanwaltschaften oder Finanzbehörden. An solche öffentlichen Stellen werden personenbezogene Daten nur aus gesetzlich zwingenden Gründen übermittelt. Rechtsgrundlage einer solchen Übermittlung ist ggf. Art. 6 Abs. 1 S. 1 Buchstabe c DSGVO.</li>
+  <li>
+    <strong>Nicht-öffentliche Stellen:</strong> Diensterbringer und Hilfspersonen, an die Daten auf Basis einer gesetzlichen Verpflichtung oder zur Wahrung berechtigter Interessen übermittelt werden, beispielsweise Steuerberater oder Wirtschaftsprüfer. Die Übermittlung erfolgt dann auf Basis des Art. 6 Abs. 1 S. 1 Buchstabe c und/oder f DSGVO.
+  </li>
+  <li>
+    <strong>Social Media:</strong> Maßgeschneidert für Event-Empfehlungen.
+  </li>
+</ul>
+
+<br>
+<h2 class="subtitle">11. Datenverarbeitung in Drittländern</h2>
+
+Sofern wir deine Daten entsprechend der obigen Ausführungen in Drittländer außerhalb der EU bzw. des EWR übermitteln, stellen wir vor der Weitergabe sicher, dass abgesehen von gesetzlich erlaubten Ausnahmefällen beim Empfänger entweder ein angemessenes Datenschutzniveau besteht oder du in die Datenübermittlung einwilligst. Ein angemessenes Datenschutzniveau wird beispielsweise gewährleistet durch eine EU-US-Privacy-Shield-Zertifizierung des Empfängers, den Abschluss von EU-Standardvertragsklauseln oder das Vorliegen sog. Binding Corporate Rules (BCR).
+
+<br>
+<h2 class="subtitle">12. Speicherdauer und Löschung</h2>
+
+Wir speichern deine personenbezogenen Daten nur solange, wie dies für die Erfüllung der Zwecke erforderlich ist oder – im Falle einer Einwilligung – solange du die Einwilligung nicht widerrufst. Im Falle eines Widerspruchs werden wir deine personenbezogenen Daten nicht mehr verarbeiten, es sei denn, ihre Weiterverarbeitung ist nach den einschlägigen gesetzlichen Bestimmungen erlaubt oder sogar verpflichtend vorgeschrieben (z.B. im Rahmen von handels- und steuerrechtlichen Aufbewahrungspflichten). Wir löschen deine personenbezogenen Daten auch dann, wenn wir hierzu aus gesetzlichen Gründen verpflichtet sind.
+
+Im Übrigen entnimmst du die Einzelheiten zur Speicherdauer deiner personenbezogenen Daten bitte den jeweiligen Ausführungen in den vorstehenden Ziffern.
+
+<br>
+<h2 class="subtitle">13. Deine Rechte</h2>
+
+Als von der Datenverarbeitung betroffene Person stehen dir zahlreiche Rechte zu. Im Einzelnen sind dies:
+
+<ul>
+  <li>
+    <strong>Auskunftsrecht</strong> (Art. 15 DSGVO): Du hast das Recht, Auskunft über die von uns zu deiner Person gespeicherten Daten zu erhalten.</li>
+  <li>
+    <strong>Berichtigungs- und Löschungsrecht</strong> (Art. 16 und Art. 17 DSGVO): Du kannst von uns die Berichtigung falscher Daten und – soweit die gesetzlichen Voraussetzungen erfüllt sind – Löschung deiner Daten verlangen.
+  </li>
+  <li>
+    <strong>Recht auf Einschränkung der Verarbeitung</strong> (Art. 18 DSGVO): Du kannst von uns – soweit die gesetzlichen Voraussetzungen erfüllt sind – verlangen, dass wir die Verarbeitung deiner Daten einschränken.
+  </li>
+  <li>
+    <strong>Recht auf Datenübertragbarkeit</strong> (Art. 20 DSGVO): Solltest du uns Daten auf Basis eines Vertrages oder einer Einwilligung bereitgestellt haben, so kannst du bei Vorliegen der gesetzlichen Voraussetzungen verlangen, dass du die von dir bereitgestellten Daten in einem strukturierten und gängigen Format erhältst oder dass wir diese an einen anderen Verantwortlichen übermitteln.
+  </li>
+  <li>
+    <strong>Widerspruchsrecht gegen Datenverarbeitung aufgrund von berechtigten Interessen</strong> (Art. 21 DSGVO): Du hast das Recht, aus Gründen, die sich aus deiner besonderen Situation ergeben, jederzeit der Datenverarbeitung durch uns zu widersprechen, soweit diese auf berechtigten Interessen im Sinne von Art. 6 Abs. 1 S. 1 Buchstabe f DSGVO beruht. Sofern du von deinem Widerspruchsrecht Gebrauch machst, werden wir die Verarbeitung deiner Daten einstellen, es sei denn wir können zwingende schutzwürdige Gründe für die Weiterverarbeitung nachweisen, welche deine Rechte überwiegen.
+  </li>
+  <li>
+    <strong>Widerruf der Einwilligung</strong> (Art. 7 DSGVO): Sofern du uns eine Einwilligung in die Verarbeitung deiner Daten erteilt hast, kannst du diese jederzeit mit Wirkung für die Zukunft widerrufen. Die Rechtmäßigkeit der Verarbeitung deiner Daten bis zum Widerruf bleibt hiervon unberührt. Wenn du deine Einwilligung in die Verwendung bestimmter Cookies widerrufen möchtest, beachte bitte unsere Ausführungen unter Ziffer 6.
+  </li>
+  <li>
+    <strong>Beschwerderecht bei der Aufsichtsbehörde</strong> (Art. 77 DSGVO): Du kannst zudem eine Beschwerde bei der zuständigen Aufsichtsbehörde einreichen, wenn du der Meinung bist, dass die Verarbeitung deiner Daten gegen geltendes Recht verstößt. Du kannst dich hierzu wahlweise an die Datenschutzbehörde wenden, die für deinen Aufenthaltsort, deinen Arbeitsplatz oder den Ort des mutmaßlichen Verstoßes zuständig ist, oder an die für uns zuständige Datenschutzbehörde. Die für uns zuständige Aufsichtsbehörde für den Datenschutz ist der Landesbeauftragte für den Datenschutz Baden-Württemberg (LfDI), erreichbar unter Königstraße 10a, 70173 Stuttgart, Tel: 0711 615541-0, Fax: 0711 615541-15, E-Mail: <a href="mailto:poststelle@lfdi.bwl.de">poststelle@lfdi.bwl.de</a>, Internet: <a target="_blank" href="https://www.baden-wuerttemberg.datenschutz.de">baden-wuerttemberg.datenschutz.de</a>.
+  </li>
+</ul>
+
+Bei Fragen zum Thema der Verarbeitung deiner personenbezogenen Daten, zu deinen Betroffenenrechte und einer etwaigen erteilten Einwilligung steht dir unser Datenschutzbeauftragter unter den unter Ziffer 20 genannten Kommunikationswegen gerne unentgeltlich zur Verfügung. Bitte wende dich auch zur Ausübung deiner Betroffenenrechte direkt an unseren Datenschutzbeauftragten.
+
+<br>
+<h2 class="subtitle">14. Unser Datenschutzbeauftragter</h2>
+
+Wir haben einen betrieblichen Datenschutzbeauftragten benannt. Diesen erreichst du wie folgt:
+
+<strong>Herrn Helmut Glaser</strong><br>
+– Datenschutzbeauftragter –
+
+homodea GmbH<br>
+Hirschstraße 2–4<br>
+76530 Baden-Baden<br>
+Telefon: +49 (0) 7221 – 99 29 828<br>
+Fax: +49 (0) 7221 – 99 29 829<br>
+E-Mail: <a href="mailto:datenschutz@humantrust.com">datenschutz@humantrust.com</a>
+
+<br>
+<h2 class="subtitle">15. Sicherheit</h2>
+
+Wir treffen technische und organisatorische Sicherheitsmaßnahmen, um deine personenbezogenen Daten gegen zufällige oder vorsätzliche Manipulationen, Verlust, Zerstörung oder gegen den Zugriff unberechtigter Personen zu schützen. Diese Sicherheitsmaßnahmen werden entsprechend jeweils dem aktuellen Stand der Technik angepasst.
+
+Deine im Rahmen der Nutzung unserer Website übertragenen personenbezogenen Daten werden bei uns sicher durch Verschlüsselung übertragen. Wir bedienen uns dabei des Verschlüsselungsprotokolls Transport Layer Security (TLS), weitläufiger bekannt unter der Vorgängerbezeichnung Secure Sockets Layer (SSL).
+
+Unsere Beschäftigten sind auf das Datengeheimnis verpflichtet.
+
+<br>
+<h2 class="subtitle">16. Änderungen</h2>
+
+Von Zeit zu Zeit kann es erforderlich werden, den Inhalt der vorliegenden Datenschutzerklärung anzupassen. Wir behalten uns daher vor, diese jederzeit zu ändern. Sofern für eine Änderung deine Einwilligung erforderlich ist, werden wir diese von dir einholen. Wir werden die geänderte Version der Datenschutzerklärung ebenfalls an dieser Stelle veröffentlichen. Wenn du unsere Website wieder besuchst, solltest du dir daher die Datenschutzerklärung erneut durchlesen.
+
+<br>
+<em>Stand:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;17. Juni 2018</em>
