@@ -47,13 +47,20 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}          
-      - file: "/privacy.md"
+      - file: "/privacy.html"
         label: "Privacy"
         name: "privacy"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}          
+      - file: "/imprint.html"
+        label: "Imprint"
+        name: "imprint"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}         
       - file: "/terms.md"
         label: "Terms"
         name: "terms"
