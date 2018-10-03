@@ -62,16 +62,17 @@ a {
       padding-bottom: 100px;
       .row {
         display: flex;
+        flex-wrap: wrap;
         justify-content: space-between;
         margin-top: -30px;
-        @media (max-width: 768px) {
-          flex-direction: column;
-        }
       }
       .column {
         flex: 0 0 30%;
         display: flex;
         flex-direction: column;
+        @media (max-width: 768px) {
+          flex-basis: 100%;
+        }
         div {
           margin-top: 30px;
         }
