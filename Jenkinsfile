@@ -23,8 +23,21 @@ def EXCLUDE_SYNC = "--exclude '.gitignore' --exclude 'Jenkinsfile' --exclude 'RE
 // PIPELINE
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 
+properties([
+  [$class: 'GithubProjectProperty', displayName: '', projectUrlStr: 'https://github.com/ichliebedich/jekyll-cms/']
+])
+
 pipeline {
   agent any
+  
+  options { 
+    disableConcurrentBuilds()
+    buildDiscarder(logRotator(numToKeepStr: '8'))
+  }
+  
+  triggers {
+    githubBranches events: [hashChanged(), restriction(exclude: 'false', matchAsPattern: 'false', matchCriteriaStr: 'master')], preStatus: true, spec: '', triggerMode: 'HEAVY_HOOKS', repoProviders: [githubPlugin(manageHooks: false, repoPermission: 'PUSH')]
+  }
   
   environment {
     S3_BUCKET = "${(env.BRANCH_NAME == BRANCH_PROD) ? S3_BUCKET_PROD : (env.BRANCH_NAME == BRANCH_STAG) ? S3_BUCKET_STAG : S3_BUCKET_TEST}"
