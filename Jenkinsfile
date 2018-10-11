@@ -49,6 +49,7 @@ pipeline {
     stage('build') {
       steps {
         sh """
+		  gem install --user-install jekyll bundler
           bundle update jekyll
           bundle install
           jekyll --version
