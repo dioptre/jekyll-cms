@@ -48,11 +48,7 @@ pipeline {
   stages {
     stage('build') {
       steps {
-        sh """
-		  echo $HOME
-		  echo $PATH
-		  export PATH="$PATH:$HOME/.rvm/bin"
-		  rvm
+        sh """		  
 		  ruby --version
 		  bundle install
           jekyll --version
