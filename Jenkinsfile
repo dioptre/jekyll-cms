@@ -49,7 +49,8 @@ pipeline {
     stage('build') {
       steps {
         sh """
-          source /var/lib/jenkins/.rvm/scripts/rvm
+		  curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+          curl -sSL https://get.rvm.io | bash -s stable --ruby
           bundle update jekyll
           bundle install
           jekyll --version
