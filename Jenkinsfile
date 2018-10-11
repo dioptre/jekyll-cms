@@ -49,6 +49,10 @@ pipeline {
     stage('build') {
       steps {
         sh """
+		  curl -sSL https://rvm.io/mpapis.asc | gpg --import -
+          curl -sSL https://get.rvm.io | bash -s stable --ruby
+		  ruby --version
+		  bundle install
           jekyll --version
           jekyll b
         """
