@@ -19,6 +19,11 @@ def CF_DISTID_TEST = "E3NXJX4E53A8FP";
 // Excluded files in S3 sync/upload
 def EXCLUDE_SYNC = "--exclude '.gitignore' --exclude 'Jenkinsfile' --exclude 'README.md' --exclude 'run.sh'"
 
+// Colors for slack messages
+def SLACK_COLOR_STARTED = '#D4DADF'
+def SLACK_COLOR_SUCCESS = '#BDFFC3'
+def SLACK_COLOR_FAILURE = '#FF9FA1'
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 // PIPELINE
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -46,6 +51,11 @@ pipeline {
   }
 
   stages {
+    stage ('prepare') {
+      steps {
+        slackSend(color: "${SLACK_COLOR_STARTED}", message: "STARTED: `${env.JOB_NAME}` #${env.BUILD_NUMBER}:\n${env.BUILD_URL}")
+      }
+    }
     stage('build') {
       steps {
         sh """		  
@@ -64,6 +74,15 @@ pipeline {
           aws cloudfront create-invalidation --distribution-id ${CF_DISTID} --paths '/*'
         """
       }
+    }
+  }
+  
+  post {
+    success {
+      slackSend(color: "${SLACK_COLOR_SUCCESS}", message: "SUCCESS: `${env.JOB_NAME}` #${env.BUILD_NUMBER}:\n${env.BUILD_URL}")
+    }
+    failure {
+      slackSend(color: "${SLACK_COLOR_FAILURE}", message: "FAILURE: `${env.JOB_NAME}` #${env.BUILD_NUMBER}:\n${env.BUILD_URL}")
     }
   }
 }
