@@ -24,6 +24,10 @@ def SLACK_COLOR_STARTED = '#D4DADF'
 def SLACK_COLOR_SUCCESS = '#BDFFC3'
 def SLACK_COLOR_FAILURE = '#FF9FA1'
 
+// This limits the autobuilding to master on staging only.
+// Result of the expression must be 'master' for master branch and a non existant branchname else
+def BRANCH_FILTER = "${(env.BRANCH_NAME == BRANCH_STAG) ? BRANCH_STAG : 'nSjHmdnAdgkje2153'}"
+
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
 // PIPELINE
 ////////////////////////////////////////////////////////////////////////////////////////////////////////
@@ -41,7 +45,7 @@ pipeline {
   }
   
   triggers {
-    githubBranches events: [hashChanged(), restriction(exclude: 'false', matchAsPattern: 'false', matchCriteriaStr: 'master')], preStatus: true, spec: '', triggerMode: 'HEAVY_HOOKS', repoProviders: [githubPlugin(manageHooks: false, repoPermission: 'PUSH')]
+    githubBranches events: [hashChanged(), restriction(exclude: 'false', matchAsPattern: 'false', matchCriteriaStr: "${BRANCH_FILTER}")], preStatus: true, spec: '', triggerMode: 'HEAVY_HOOKS'
   }
   
   environment {
