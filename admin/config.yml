@@ -68,3 +68,16 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}                    
+
+  - name: "email"
+    create: true
+    delete: true
+    label: "Email"
+    files:
+      - file: "/email-templates/registration.html"
+        label: "Registration"
+        name: "registration"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
