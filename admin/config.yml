@@ -47,13 +47,20 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}          
-      - file: "/privacy.md"
+      - file: "/privacy.html"
         label: "Privacy"
         name: "privacy"
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}          
+      - file: "/imprint.html"
+        label: "Imprint"
+        name: "imprint"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}         
       - file: "/terms.md"
         label: "Terms"
         name: "terms"
@@ -61,3 +68,32 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "hidden", default: "normal"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}                    
+
+  - name: "basic-email"
+    create: true
+    delete: true
+    label: "Basic email"
+    folder: "basic-emails"
+    sort: "date:desc" # Default is title:asc
+    slug: "{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "basic-email"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Header", name: "header", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "email-with-button"
+    create: true
+    delete: true
+    label: "Email with button"
+    folder: "emails-with-button"
+    sort: "date:desc" # Default is title:asc
+    slug: "{{slug}}"
+    fields: # The fields each document in this collection have
+      - {label: "Layout", name: "layout", widget: "hidden", default: "email-with-button"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Header", name: "header", widget: "string"}
+      - {label: "Button text", name: "buttonText", widget: "string"}
+      - {label: "Button link", name: "buttonLink", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+        
