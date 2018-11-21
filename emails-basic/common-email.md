@@ -1,6 +1,6 @@
 ---
 layout: email-with-button
-title: Default
+title: default
 header: 'Lieber {{fn}},'
 buttonText: '{{ctat}}'
 buttonLink: '{{cta}}'
