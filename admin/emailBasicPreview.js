@@ -3,6 +3,8 @@ var Preview = createClass({
     var entry = this.props.entry;
     var header = entry.getIn(['data', 'header']);
     var body = entry.getIn(['data', 'body']);
+    var buttonLink = entry.getIn(['data', 'buttonLink'])
+    var buttonText = entry.getIn(['data', 'buttonText'])
 
     return h('div', {style: {margin: "0 auto", padding: "0", width: "100%", fontFamily: "'Circular Std',sans-serif", color: "#0f253a", minWidth: "750px"}},
       h('table', {style: {borderCollapse: "collapse", padding: "0", margin: "0", width: "100%", backgroundColor: "#fafafa"}},
@@ -29,6 +31,9 @@ var Preview = createClass({
                       h('div', {style: {padding: "100px 125px"}},
                         h('div', {style: {fontSize: "30px", fontWeight: "700", color: "#0f253a", paddingBottom: "70px"}}, header),
                         h('div', {style: {fontSize: "18px", fontWeight: "700", color: "#0f253a", paddingBottom: "30px", whiteSpace: "pre-wrap"}}, body),
+                        h('span', {style: {cursor: "pointer", height: "60px", width: "225px", textAlign: "center", background: "-webkit-linear-gradient(left,red,#f30b6e 57.5%,#f30b71 100%)", background: "linear-gradient(to right,red 0%,#f30b6e 57.5%,#f30b71 100%)", display: "inline-block"}},
+                          h('a', {href: buttonLink, style: {textDecoration: "none", paddingTop: "20px", fontSize: "16px", lineHeight: "20px", color: "white", display: "inline-block", letterSpacing: "3px", fontWeight: "700"}}, buttonText)
+                        ),
                         h('div', {style: {paddingTop: "70px", paddingBottom: "20px"}},
                           h('img', {src: "/img/uploads/email-team-avatar.png", style: {width: "32px", height: "32px", borderRadius: "50%", verticalAlign: "middle"}}),
                           h('span', {style: {fontSize: "14px", fontWeight: "700", paddingLeft: "5px"}}, "Dein homodea-Team")
@@ -69,4 +74,4 @@ var Preview = createClass({
   }
 });
 
-CMS.registerPreviewTemplate("basic-email", Preview);
+CMS.registerPreviewTemplate("email-basic", Preview);
