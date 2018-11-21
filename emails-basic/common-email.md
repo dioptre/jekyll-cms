@@ -1,5 +1,5 @@
 ---
-layout: email-with-button
+layout: email-basic
 title: default
 header: 'Lieber {{fn}},'
 buttonText: '{{ctat}}'
