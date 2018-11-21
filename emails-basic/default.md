@@ -5,4 +5,4 @@ header: 'Lieber {{fn}},'
 buttonText: '{{ctat}}'
 buttonLink: '{{cta}}'
 ---
-{{msg}}
+{{msg}} test
