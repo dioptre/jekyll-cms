@@ -1,3 +1,3 @@
 #! /bin/bash
 #bundle install
-bundle exec jekyll serve --watch --port 3008
+bundle exec jekyll serve --watch --port 3030    
