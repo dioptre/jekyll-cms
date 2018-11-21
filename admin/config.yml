@@ -77,10 +77,10 @@ collections: # A list of collections the CMS should be able to edit
     sort: "date:desc" # Default is title:asc
     slug: "{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "email-basic"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Header", name: "header", widget: "string"}
-      - {label: "Button text", name: "buttonText", widget: "string"}
-      - {label: "Button link", name: "buttonLink", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "email-basic", required: false}
+      - {label: "Title", name: "title", widget: "string", required: false}
+      - {label: "Header", name: "header", widget: "string", required: false}
+      - {label: "Button text", name: "buttonText", widget: "string", required: false}
+      - {label: "Button link", name: "buttonLink", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}
         
