@@ -2,8 +2,8 @@
 layout: email-basic
 title: default
 header: 'Lieber {{fn}},'
-ctat: ''
-cta: ''
+ctat: '{{ctat}}'
+cta: '{{cta}}'
 msg: '{{msg}}'
 ---
 
