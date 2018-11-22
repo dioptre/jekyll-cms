@@ -4,5 +4,6 @@ title: default
 header: 'Lieber {{fn}},'
 ctat: '{{ctat}}'
 cta: '{{cta}}'
+msg: '{{msg}}'
 ---
-{{msg}} hi theer
+
