@@ -2,7 +2,7 @@
 layout: email-basic
 title: default
 header: 'Lieber {{fn}},'
-buttonText: '{{ctat}}'
-buttonLink: '{{cta}}'
+ctat: '{{ctat}}'
+cta: '{{cta}}'
 ---
-{{msg}}
+{{msg}} hi theer
